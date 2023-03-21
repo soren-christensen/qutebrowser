@@ -123,6 +123,7 @@ learn-c++ http://www.learncpp.com/
 command-line-argument http://www.site.uottawa.ca/~lucia/courses/2131-05/labs/Lab3/CommandLineArguments.html
 pine64 https://www.pine64.org/
 bananapi http://www.banana-pi.org/index.html
+openweather https://openweathermap.org/
 ansiweather https://github.com/fcambus/ansiweather/
 khal-fastmail http://shanedowling.com/command-line-calendars-with-khal-and-fastmail
 wagner-billeder https://resources.3bmoodle.dk/img.php
@@ -135,6 +136,7 @@ spideroak https://spideroak.com/
 fuji https://fujifilm-x.com/da-dk/
 nuts-volts https://www.nutsvolts.com/
 lsb https://www.lsb.dk/lsb/
+larbs https://larbs.xyz/
 ujs https://www.ujs-biler.dk/
 rivian https://rivian.com/r1s/
 rosen-hebrew https://rosenhebrewschool.com/
@@ -152,8 +154,9 @@ tilliv https://www.tilliv.dk/
 kloster-druebeck https://kloster-druebeck.de/
 ekmd https://www.ekmd.de/
 cykelpartner https://www.cykelpartner.dk/
+lukesmith https://github.com/LukeSmithxyz
 risen https://www.youtube.com/watch?v=xCQsK1t9EKY
-github https://github.com/soren-christensen
+github https://github.com/
 adersbruch https://reisezoom.com/adelsbach-weckelsdorfer-felsenstadt-tschechien/
 elgiganten https://www.elgiganten.dk/
 gentle-tmux https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340
@@ -436,7 +439,6 @@ huion https://www.huion.com/
 speedtest https://www.speedtest.net/
 geilo https://www.geilo.com/nb
 rack-moebel https://www.thomann.de/dk/on_stage_wsr7500rb.htm
-naked-blogger https://www.youtube.com/@TheNudeBlogger/videos
 latex-einfuhrung https://www.youtube.com/watch?v=SxM8bzVWe4I
 stock https://www.stockvault.net/
 icons https://freeicons.io/
@@ -464,7 +466,6 @@ nakedclub https://www.youtube.com/channel/UCsvlxwyzqOadPxVB7jtqJuQ
 networkmanager-static https://michlstechblog.info/blog/linux-set-a-static-fixed-ip-with-network-manager-cli/
 redhat-nmcli https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/getting_started_with_networkmanager
 nvidia-graphics-arch https://computingforgeeks.com/easiest-way-to-install-nvidia-3d-graphics-acceleration-driver-on-archlinux/
-github-cli https://cli.github.com/
 github-cli https://github.com/cli/cli#installation
 github.doc https://docs.github.com/en/get-started/quickstart/set-up-git
 zeroG https://www.wygodnyfotel.pl/index1.html
@@ -484,5 +485,4 @@ hugo https://gohugo.io/
 git-submodules https://git-scm.com/book/en/v2/Git-Tools-Submodules
 learn-git https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 git-submodules-sitepoint https://www.sitepoint.com/git-submodules-introduction/
-github https://github.com/
 reveal-hugo https://reveal-hugo.dzello.com/#/
