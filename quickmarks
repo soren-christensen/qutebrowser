@@ -486,3 +486,4 @@ git-submodules https://git-scm.com/book/en/v2/Git-Tools-Submodules
 learn-git https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 git-submodules-sitepoint https://www.sitepoint.com/git-submodules-introduction/
 reveal-hugo https://reveal-hugo.dzello.com/#/
+hugo-bake-solar-theme https://github.com/bake/solar-theme-hugo
