@@ -95,7 +95,7 @@ lcurses-doc http://www.pjb.com.au/comp/lua/lcurses.html
 ncurses http://www.smnd.sk/anino/programming/c/ncurses-intro.html
 curses-prog http://www.c-for-dummies.com/ncurses/
 curses-howto http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
-carlacargo https://www.carlacargo.de/en/
+carlacargo https://www.carlacargo.de/
 øvv https://oevv.dk/
 trædrejer https://www.traedrejerbutikken.dk/shop/frontpage.html
 ikea https://www.ikea.com/dk/da/
@@ -494,3 +494,4 @@ local-hugo http://localhost:1313/
 train-nice https://www.youtube.com/watch?v=RWoAjUmcqqk
 c++-tut https://www.youtube.com/watch?v=8jLOx1hD3_o
 ga-hugo-theme https://github.com/giraffeacademy/ga-hugo-theme
+carlagargo https://www.carlacargo.de/
